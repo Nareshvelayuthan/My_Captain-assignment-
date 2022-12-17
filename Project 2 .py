@@ -1,3 +1,4 @@
+#To print fibanacci series
 A= int(input("Number of fibonacci series need to be displayed:"))
 i=0
 num1=0
